@@ -3,9 +3,6 @@ def simple_curfew_checker(time)
     puts "You're in trouble! Better get home quick!"
   end 
 end
-simple_curfew_checker(12)
-
-
 
 def curfew_checker(time)
   if time > 11
