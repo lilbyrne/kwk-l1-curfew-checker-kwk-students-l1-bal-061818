@@ -3,6 +3,7 @@ def simple_curfew_checker(time)
     puts "You're in trouble if it's than 11"
   end 
 end
+simple_curfew_checker(12)
 
 
 
