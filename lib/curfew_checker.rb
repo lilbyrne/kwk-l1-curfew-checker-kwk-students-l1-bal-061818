@@ -6,7 +6,7 @@ end
 
 def curfew_checker(time)
   if time == 11
-    puts "You're in trouble if it's later than 11."
+    puts "You're in trouble! Better get home quick!"
   else 
     puts ""
   end 
